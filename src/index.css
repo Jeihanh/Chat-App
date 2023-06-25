@@ -1,0 +1,39 @@
+.App {
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
+    'Helvetica Neue', sans-serif;
+  text-align: center;
+  background-color: #f8e7f9;
+  padding: 20px;
+}
+
+h1 {
+  color: #8d6bcf;
+}
+
+.chat {
+  margin-top: 20px;
+}
+
+input[type="text"] {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #bda1d9;
+  background-color: #f6effb;
+  color: #644b7b;
+  margin: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: #c8a3dd;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  margin: 5px;
+}
+
+button:hover {
+  background-color: #a080b8;
+}
